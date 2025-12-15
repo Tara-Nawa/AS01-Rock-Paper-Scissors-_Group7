@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class SourceCode {
+public class DefenseLightHeavy {
 
     public static String DEFENSE = "Defense";
     public static String LIGHT_ATTACK = "Light Attack";
